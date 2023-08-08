@@ -1,0 +1,8 @@
+{
+    "app_id": "application-1-milgw",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "DE-FF",
+    "provider_region": "aws-eu-central-1",
+    "deployment_model": "LOCAL"
+}
